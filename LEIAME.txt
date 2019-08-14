@@ -1,0 +1,1 @@
+Projeto consistia em criar o portal do aluno/professor/gerenciador para que ele se matriculasse em turmas de disciplinas disponiveis.
